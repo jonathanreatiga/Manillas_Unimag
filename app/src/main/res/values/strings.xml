@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Manillas</string>
+    <string name="tituloActivityMain">Manillas</string>
+
+    <string name="material_Cuero">Cuero</string>
+    <string name="material_cuerda">Cuerda</string>
+    <string-array name="Materiales">
+        <item>@string/material_Cuero</item>
+        <item>@string/material_cuerda</item>
+    </string-array>
+
 </resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bracelet</string>
+    <string name="tituloActivityMain">Bracelet</string>
+    <string name="material_Cuero">" Leather"</string>
+    <string name="material_cuerda">Rope</string>
+</resources>
