@@ -4,4 +4,19 @@
     <string name="tituloActivityMain">Bracelet</string>
     <string name="material_Cuero">" Leather"</string>
     <string name="material_cuerda">Rope</string>
+    <string name="dije_Martillo">Hammer</string>
+    <string name="dije_Ancla">Anchor</string>
+    <string name="tipo_Oro">Gold</string>
+    <string name="tipo_BanoOro">Gold Bath</string>
+    <string name="tipo_OroRosado">Pink Gold</string>
+    <string name="tipo_Plata">Silver</string>
+    <string name="tipo_Niquel">Nickel</string>
+    <string name="moneda_Dolar">Dollar</string>
+    <string name="moneda_Pesos">COP</string>
+    <string name="txtValorUnidad">Value per Unit</string>
+    <string name="txtIngreseCantidad">Enter Amount</string>
+    <string name="btnAccion">Calculate</string>
+    <string name="btnLimpiar">Clean</string>
+    <string name="error_Cantidad">Quantity equal to 0</string>
+    <string name="error_Vacio">Empty Quantity</string>
 </resources>

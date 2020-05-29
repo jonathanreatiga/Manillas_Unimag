@@ -9,4 +9,39 @@
         <item>@string/material_cuerda</item>
     </string-array>
 
+    <string name="dije_Martillo">Martillo</string>
+    <string name="dije_Ancla">Ancla</string>
+    <string-array name="Dijes">
+        <item>@string/dije_Martillo</item>
+        <item>@string/dije_Ancla</item>
+    </string-array>
+
+    <string name="tipo_Oro">Oro</string>
+    <string name="tipo_BanoOro">Baño de Oro</string>
+    <string name="tipo_OroRosado">Oro Rosado</string>
+    <string name="tipo_Plata">Plata</string>
+    <string name="tipo_Niquel">Níquel</string>
+    <string-array name="Tipos">
+        <item>@string/tipo_Oro</item>
+        <item>@string/tipo_BanoOro</item>
+        <item>@string/tipo_OroRosado</item>
+        <item>@string/tipo_Plata</item>
+        <item>@string/tipo_Niquel</item>
+    </string-array>
+
+    <string name="moneda_Dolar">Dolar</string>
+    <string name="moneda_Pesos">Pesos</string>
+    <string-array name="Monedas">
+        <item>@string/moneda_Dolar</item>
+        <item>@string/moneda_Pesos</item>
+    </string-array>
+
+    <string name="txtValorUnidad">Valor por Unidad</string>
+    <string name="txtIngreseCantidad">Ingrese Cantidad</string>
+    <string name="btnAccion">Calcular</string>
+    <string name="btnLimpiar">Limpiar</string>
+
+    <string name="error_Cantidad">Cantidad igual a 0</string>
+    <string name="error_Vacio">Cantidad Vacia</string>
+
 </resources>
